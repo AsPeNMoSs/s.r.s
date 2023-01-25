@@ -25,3 +25,5 @@ In general, SRS documents contain three kinds of program requirements:
 * _**Functional specifications** that include measures to be performed by the system_
 * _**Non-functional**  **requirements** determining the software system’s performance attributes_
 * _**Domain requirements** that are device limits on the service domain_
+
+&#x20;                    Components of an SRS
