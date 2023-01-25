@@ -26,4 +26,16 @@ In general, SRS documents contain three kinds of program requirements:
 * _**Non-functional**  **requirements** determining the software system’s performance attributes_
 * _**Domain requirements** that are device limits on the service domain_
 
-&#x20;                    Components of an SRS
+&#x20;  _Components of an SRS_
+
+No two SRS documents are identical because all software projects are different, some using the waterfall development model, and others practicing agile development. However, it is still possible to distill the main components of an SRS and create a rough schematic of what it should look like:
+
+1. Introduction&#x20;
+
+\-Purpose -Audience -Expected use -Scope -Acronyms and definitions
+
+2.Overview -User needs -Dependencies and Assumptions
+
+3.System requirements and characteristics -Functional requirements -External interface requirements -System caracteristics -Non-functional requirements
+
+The first section describes the product being developed, its purpose, target audience, intended use, and scope. The second section provides more information on the needs of users and the factors that could prevent the requirements established in the SRS from being met. The last main section is devoted to specific requirements, both functional and non-functional.
