@@ -32,10 +32,16 @@ No two SRS documents are identical because all software projects are different, 
 
 1. Introduction&#x20;
 
-\-Purpose -Audience -Expected use -Scope -Acronyms and definitions
+**`-Purpose`**&#x20;
 
-2.Overview -User needs -Dependencies and Assumptions
+**`-Audience`**&#x20;
 
-3.System requirements and characteristics -Functional requirements -External interface requirements -System caracteristics -Non-functional requirements
+**`-Expected use`**&#x20;
+
+**`-Scope -Acronyms and definitions`**
+
+2\. Overview -User needs -Dependencies and Assumptions
+
+3\. System requirements and characteristics -Functional requirements -External interface requirements -System caracteristics -Non-functional requirements
 
 The first section describes the product being developed, its purpose, target audience, intended use, and scope. The second section provides more information on the needs of users and the factors that could prevent the requirements established in the SRS from being met. The last main section is devoted to specific requirements, both functional and non-functional.
